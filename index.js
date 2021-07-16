@@ -43,7 +43,7 @@ raimonda.playlist();
 // 2. Tra lia lai (1)
 // 3. Oj lijo lijo (1)
 // 4. Kai grazumo (2)
-/*
+
 raimonda.fortune();
 // Total lifetime wealth of Raimonda is 1.05 EUR right now!
 
@@ -67,4 +67,3 @@ raimonda.playlist();
 
 raimonda.fortune();
 // Total lifetime wealth of Raimonda is 1.80 EUR right now!
-*/
