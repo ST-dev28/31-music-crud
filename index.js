@@ -1,4 +1,5 @@
-const Artist = require('./Artist');
+//const Artist = require('./Artist');
+const Artist = require('./Artist1');
 
 const raimonda = new Artist('Raimonda', 'EUR');
 
